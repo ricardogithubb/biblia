@@ -1,16 +1,16 @@
-Salmos;1;1;1;salmos_0871_01.jpg
-Salmos;1;2;4;salmos_0871_02.jpg
-Salmos;1;5;6;salmos_0872_01.jpg
-Salmos;2;1;8;salmos_0872_01_2.jpg
-Salmos;2;9;12;salmos_0872_02.jpg
-Salmos;3;1;5;salmos_0872_02_2.jpg
-Salmos;3;6;8;salmos_0873_01.jpg
-Salmos;4;1;6;salmos_0873_01_2.jpg
-Salmos;4;7;8;salmos_0873_02.jpg
-Salmos;5;1;7;salmos_0873_02_2.jpg
-Salmos;5;8;12;salmos_0874_01.jpg
-Salmos;6;1;2;salmos_0874_01_2.jpg
-Salmos;6;3;10;salmos_0874_02.jpg
+Salmos;1;1;1;salmos_0871_01.png
+Salmos;1;2;4;salmos_0871_02.png
+Salmos;1;5;6;salmos_0872_01.png
+Salmos;2;1;8;salmos_0872_01_2.png
+Salmos;2;9;12;salmos_0872_02.png
+Salmos;3;1;5;salmos_0872_02_2.png
+Salmos;3;6;8;salmos_0873_01.png
+Salmos;4;1;6;salmos_0873_01_2.png
+Salmos;4;7;8;salmos_0873_02.png
+Salmos;5;1;7;salmos_0873_02_2.png
+Salmos;5;8;12;salmos_0874_01.png
+Salmos;6;1;2;salmos_0874_01_2.png
+Salmos;6;3;10;salmos_0874_02.png
 1 Reis;1;1;6;1 Reis_0559_01.png
 1 Reis;1;7;12;1 Reis_0559_02.png
 1 Reis;1;13;21;1 Reis_0560_01.png
@@ -142,125 +142,125 @@ Salmos;6;3;10;salmos_0874_02.jpg
 1 Reis;22;36;43;1 Reis_0612_02.png
 1 Reis;22;44;49;1 Reis_0613_01.png
 1 Reis;22;50;53;1 Reis_0613_02.png
-2 Reis;1;1;1;2_Reis_0613_01.jpg
-2 Reis;1;2;2;2_Reis_0613_02.jpg
-2 Reis;1;3;10;2_Reis_0614_01.jpg
-2 Reis;1;11;16;2_Reis_0614_02.jpg
-2 Reis;1;17;18;2_Reis_0615_01.jpg
-2 Reis;2;1;3;2_Reis_0615_01_2.jpg
-2 Reis;2;4;11;2_Reis_0615_02.jpg
-2 Reis;2;12;18;2_Reis_0616_01.jpg
-2 Reis;2;19;25;2_Reis_0616_02.jpg
-2 Reis;3;1;1;2_Reis_0616_02_2.jpg
-2 Reis;3;2;9;2_Reis_0617_01.jpg
-2 Reis;3;10;17;2_Reis_0617_02.jpg
-2 Reis;3;18;25;2_Reis_0618_01.jpg
-2 Reis;3;26;27;2_Reis_0618_02.jpg
-2 Reis;4;1;3;2_Reis_0618_02_2.jpg
-2 Reis;4;4;12;2_Reis_0619_01.jpg
-2 Reis;4;13;22;2_Reis_0619_02.jpg
-2 Reis;4;23;31;2_Reis_0620_01.jpg
-2 Reis;4;32;39;2_Reis_0620_02.jpg
-2 Reis;4;40;44;2_Reis_0621_01.jpg
-2 Reis;5;1;1;2_Reis_0621_01_2.jpg
-2 Reis;5;2;7;2_Reis_0621_02.jpg
-2 Reis;5;8;14;2_Reis_0622_01.jpg
-2 Reis;5;15;20;2_Reis_0622_02.jpg
-2 Reis;5;21;27;2_Reis_0623_01.jpg
-2 Reis;6;1;10;2_Reis_0623_02.jpg
-2 Reis;6;11;18;2_Reis_0624_01.jpg
-2 Reis;6;19;26;2_Reis_0624_02.jpg
-2 Reis;6;27;33;2_Reis_0625_01.jpg
-2 Reis;6;33;33;2_Reis_0625_02.jpg
-2 Reis;7;1;4;2_Reis_0625_02_2.jpg
-2 Reis;7;5;10;2_Reis_0626_01.jpg
-2 Reis;7;11;17;2_Reis_0626_02.jpg
-2 Reis;7;18;20;2_Reis_0627_01.jpg
-2 Reis;8;1;3;2_Reis_0627_01_2.jpg
-2 Reis;8;4;9;2_Reis_0627_02.jpg
-2 Reis;8;10;17;2_Reis_0628_01.jpg
-2 Reis;8;18;27;2_Reis_0628_02.jpg
-2 Reis;8;28;29;2_Reis_0629_01.jpg
-2 Reis;9;1;5;2_Reis_0629_01_2.jpg
-2 Reis;9;6;13;2_Reis_0629_02.jpg
-2 Reis;9;14;20;2_Reis_0630_01.jpg
-2 Reis;9;21;27;2_Reis_0630_02.jpg
-2 Reis;9;28;37;2_Reis_0631_01.jpg
-2 Reis;9;37;37;2_Reis_0631_02.jpg
-2 Reis;10;1;6;2_Reis_0631_02_2.jpg
-2 Reis;10;7;13;2_Reis_0632_01.jpg
-2 Reis;10;14;21;2_Reis_0632_02.jpg
-2 Reis;10;22;28;2_Reis_0633_01.jpg
-2 Reis;10;29;36;2_Reis_0633_02.jpg
-2 Reis;11;1;7;2_Reis_0634_01.jpg
-2 Reis;11;8;15;2_Reis_0634_02.jpg
-2 Reis;11;16;21;2_Reis_0635_01.jpg
-2 Reis;12;1;1;2_Reis_0635_01_2.jpg
-2 Reis;12;2;8;2_Reis_0635_02.jpg
-2 Reis;12;9;15;2_Reis_0636_01.jpg
-2 Reis;12;16;21;2_Reis_0636_02.jpg
-2 Reis;13;1;1;2_Reis_0636_02_2.jpg
-2 Reis;13;2;8;2_Reis_0637_01.jpg
-2 Reis;13;9;17;2_Reis_0637_02.jpg
-2 Reis;13;18;25;2_Reis_0638_01.jpg
-2 Reis;13;25;25;2_Reis_0638_02.jpg
-2 Reis;14;1;7;2_Reis_0638_02_2.jpg
-2 Reis;14;8;15;2_Reis_0639_01.jpg
-2 Reis;14;16;24;2_Reis_0639_02.jpg
-2 Reis;14;25;29;2_Reis_0640_01.jpg
-2 Reis;15;1;2;2_Reis_0640_01_2.jpg
-2 Reis;15;3;11;2_Reis_0640_02.jpg
-2 Reis;15;12;20;2_Reis_0641_01.jpg
-2 Reis;15;21;29;2_Reis_0641_02.jpg
-2 Reis;15;30;37;2_Reis_0642_01.jpg
-2 Reis;15;38;38;2_Reis_0642_02.jpg
-2 Reis;16;1;6;2_Reis_0642_02_2.jpg
-2 Reis;16;7;13;2_Reis_0643_01.jpg
-2 Reis;16;14;20;2_Reis_0643_02.jpg
-2 Reis;17;1;6;2_Reis_0644_01.jpg
-2 Reis;17;7;13;2_Reis_0644_02.jpg
-2 Reis;17;14;20;2_Reis_0645_01.jpg
-2 Reis;17;21;26;2_Reis_0645_02.jpg
-2 Reis;17;27;34;2_Reis_0646_01.jpg
-2 Reis;17;35;41;2_Reis_0646_02.jpg
-2 Reis;18;1;1;2_Reis_0646_02_2.jpg
-2 Reis;18;2;8;2_Reis_0647_01.jpg
-2 Reis;18;9;15;2_Reis_0647_02.jpg
-2 Reis;18;16;22;2_Reis_0648_01.jpg
-2 Reis;18;23;30;2_Reis_0648_02.jpg
-2 Reis;18;31;37;2_Reis_0649_01.jpg
-2 Reis;19;1;6;2_Reis_0649_02.jpg
-2 Reis;19;7;15;2_Reis_0650_01.jpg
-2 Reis;19;16;23;2_Reis_0650_02.jpg
-2 Reis;19;24;31;2_Reis_0651_01.jpg
-2 Reis;19;32;37;2_Reis_0651_02.jpg
-2 Reis;20;1;1;2_Reis_0651_02_2.jpg
-2 Reis;20;2;8;2_Reis_0652_01.jpg
-2 Reis;20;9;14;2_Reis_0652_02.jpg
-2 Reis;20;15;21;2_Reis_0653_01.jpg
-2 Reis;21;1;1;2_Reis_0653_01_2.jpg
-2 Reis;21;2;7;2_Reis_0653_02.jpg
-2 Reis;21;8;15;2_Reis_0654_01.jpg
-2 Reis;21;16;23;2_Reis_0654_02.jpg
-2 Reis;21;24;26;2_Reis_0655_01.jpg
-2 Reis;22;1;4;2_Reis_0655_01_2.jpg
-2 Reis;22;5;12;2_Reis_0655_02.jpg
-2 Reis;22;13;19;2_Reis_0656_01.jpg
-2 Reis;22;20;20;2_Reis_0656_02.jpg
-2 Reis;23;1;3;2_Reis_0656_02_2.jpg
-2 Reis;23;4;8;2_Reis_0657_01.jpg
-2 Reis;23;9;13;2_Reis_0657_02.jpg
-2 Reis;23;14;19;2_Reis_0658_01.jpg
-2 Reis;23;20;26;2_Reis_0658_02.jpg
-2 Reis;23;27;34;2_Reis_0659_01.jpg
-2 Reis;23;35;37;2_Reis_0659_02.jpg
-2 Reis;24;1;2;2_Reis_0659_02_2.jpg
-2 Reis;24;3;11;2_Reis_0660_01.jpg
-2 Reis;24;12;18;2_Reis_0660_02.jpg
-2 Reis;24;19;20;2_Reis_0661_01.jpg
-2 Reis;25;1;4;2_Reis_0661_01_2.jpg
-2 Reis;25;5;12;2_Reis_0661_02.jpg
-2 Reis;25;13;19;2_Reis_0662_01.jpg
-2 Reis;25;20;25;2_Reis_0662_02.jpg
-2 Reis;25;26;27;2_Reis_0663_01.jpg
-2 Reis;25;28;30;2_Reis_0663_02.jpg
+2 Reis;1;1;1;2_Reis_0613_01.png
+2 Reis;1;2;2;2_Reis_0613_02.png
+2 Reis;1;3;10;2_Reis_0614_01.png
+2 Reis;1;11;16;2_Reis_0614_02.png
+2 Reis;1;17;18;2_Reis_0615_01.png
+2 Reis;2;1;3;2_Reis_0615_01_2.png
+2 Reis;2;4;11;2_Reis_0615_02.png
+2 Reis;2;12;18;2_Reis_0616_01.png
+2 Reis;2;19;25;2_Reis_0616_02.png
+2 Reis;3;1;1;2_Reis_0616_02_2.png
+2 Reis;3;2;9;2_Reis_0617_01.png
+2 Reis;3;10;17;2_Reis_0617_02.png
+2 Reis;3;18;25;2_Reis_0618_01.png
+2 Reis;3;26;27;2_Reis_0618_02.png
+2 Reis;4;1;3;2_Reis_0618_02_2.png
+2 Reis;4;4;12;2_Reis_0619_01.png
+2 Reis;4;13;22;2_Reis_0619_02.png
+2 Reis;4;23;31;2_Reis_0620_01.png
+2 Reis;4;32;39;2_Reis_0620_02.png
+2 Reis;4;40;44;2_Reis_0621_01.png
+2 Reis;5;1;1;2_Reis_0621_01_2.png
+2 Reis;5;2;7;2_Reis_0621_02.png
+2 Reis;5;8;14;2_Reis_0622_01.png
+2 Reis;5;15;20;2_Reis_0622_02.png
+2 Reis;5;21;27;2_Reis_0623_01.png
+2 Reis;6;1;10;2_Reis_0623_02.png
+2 Reis;6;11;18;2_Reis_0624_01.png
+2 Reis;6;19;26;2_Reis_0624_02.png
+2 Reis;6;27;33;2_Reis_0625_01.png
+2 Reis;6;33;33;2_Reis_0625_02.png
+2 Reis;7;1;4;2_Reis_0625_02_2.png
+2 Reis;7;5;10;2_Reis_0626_01.png
+2 Reis;7;11;17;2_Reis_0626_02.png
+2 Reis;7;18;20;2_Reis_0627_01.png
+2 Reis;8;1;3;2_Reis_0627_01_2.png
+2 Reis;8;4;9;2_Reis_0627_02.png
+2 Reis;8;10;17;2_Reis_0628_01.png
+2 Reis;8;18;27;2_Reis_0628_02.png
+2 Reis;8;28;29;2_Reis_0629_01.png
+2 Reis;9;1;5;2_Reis_0629_01_2.png
+2 Reis;9;6;13;2_Reis_0629_02.png
+2 Reis;9;14;20;2_Reis_0630_01.png
+2 Reis;9;21;27;2_Reis_0630_02.png
+2 Reis;9;28;37;2_Reis_0631_01.png
+2 Reis;9;37;37;2_Reis_0631_02.png
+2 Reis;10;1;6;2_Reis_0631_02_2.png
+2 Reis;10;7;13;2_Reis_0632_01.png
+2 Reis;10;14;21;2_Reis_0632_02.png
+2 Reis;10;22;28;2_Reis_0633_01.png
+2 Reis;10;29;36;2_Reis_0633_02.png
+2 Reis;11;1;7;2_Reis_0634_01.png
+2 Reis;11;8;15;2_Reis_0634_02.png
+2 Reis;11;16;21;2_Reis_0635_01.png
+2 Reis;12;1;1;2_Reis_0635_01_2.png
+2 Reis;12;2;8;2_Reis_0635_02.png
+2 Reis;12;9;15;2_Reis_0636_01.png
+2 Reis;12;16;21;2_Reis_0636_02.png
+2 Reis;13;1;1;2_Reis_0636_02_2.png
+2 Reis;13;2;8;2_Reis_0637_01.png
+2 Reis;13;9;17;2_Reis_0637_02.png
+2 Reis;13;18;25;2_Reis_0638_01.png
+2 Reis;13;25;25;2_Reis_0638_02.png
+2 Reis;14;1;7;2_Reis_0638_02_2.png
+2 Reis;14;8;15;2_Reis_0639_01.png
+2 Reis;14;16;24;2_Reis_0639_02.png
+2 Reis;14;25;29;2_Reis_0640_01.png
+2 Reis;15;1;2;2_Reis_0640_01_2.png
+2 Reis;15;3;11;2_Reis_0640_02.png
+2 Reis;15;12;20;2_Reis_0641_01.png
+2 Reis;15;21;29;2_Reis_0641_02.png
+2 Reis;15;30;37;2_Reis_0642_01.png
+2 Reis;15;38;38;2_Reis_0642_02.png
+2 Reis;16;1;6;2_Reis_0642_02_2.png
+2 Reis;16;7;13;2_Reis_0643_01.png
+2 Reis;16;14;20;2_Reis_0643_02.png
+2 Reis;17;1;6;2_Reis_0644_01.png
+2 Reis;17;7;13;2_Reis_0644_02.png
+2 Reis;17;14;20;2_Reis_0645_01.png
+2 Reis;17;21;26;2_Reis_0645_02.png
+2 Reis;17;27;34;2_Reis_0646_01.png
+2 Reis;17;35;41;2_Reis_0646_02.png
+2 Reis;18;1;1;2_Reis_0646_02_2.png
+2 Reis;18;2;8;2_Reis_0647_01.png
+2 Reis;18;9;15;2_Reis_0647_02.png
+2 Reis;18;16;22;2_Reis_0648_01.png
+2 Reis;18;23;30;2_Reis_0648_02.png
+2 Reis;18;31;37;2_Reis_0649_01.png
+2 Reis;19;1;6;2_Reis_0649_02.png
+2 Reis;19;7;15;2_Reis_0650_01.png
+2 Reis;19;16;23;2_Reis_0650_02.png
+2 Reis;19;24;31;2_Reis_0651_01.png
+2 Reis;19;32;37;2_Reis_0651_02.png
+2 Reis;20;1;1;2_Reis_0651_02_2.png
+2 Reis;20;2;8;2_Reis_0652_01.png
+2 Reis;20;9;14;2_Reis_0652_02.png
+2 Reis;20;15;21;2_Reis_0653_01.png
+2 Reis;21;1;1;2_Reis_0653_01_2.png
+2 Reis;21;2;7;2_Reis_0653_02.png
+2 Reis;21;8;15;2_Reis_0654_01.png
+2 Reis;21;16;23;2_Reis_0654_02.png
+2 Reis;21;24;26;2_Reis_0655_01.png
+2 Reis;22;1;4;2_Reis_0655_01_2.png
+2 Reis;22;5;12;2_Reis_0655_02.png
+2 Reis;22;13;19;2_Reis_0656_01.png
+2 Reis;22;20;20;2_Reis_0656_02.png
+2 Reis;23;1;3;2_Reis_0656_02_2.png
+2 Reis;23;4;8;2_Reis_0657_01.png
+2 Reis;23;9;13;2_Reis_0657_02.png
+2 Reis;23;14;19;2_Reis_0658_01.png
+2 Reis;23;20;26;2_Reis_0658_02.png
+2 Reis;23;27;34;2_Reis_0659_01.png
+2 Reis;23;35;37;2_Reis_0659_02.png
+2 Reis;24;1;2;2_Reis_0659_02_2.png
+2 Reis;24;3;11;2_Reis_0660_01.png
+2 Reis;24;12;18;2_Reis_0660_02.png
+2 Reis;24;19;20;2_Reis_0661_01.png
+2 Reis;25;1;4;2_Reis_0661_01_2.png
+2 Reis;25;5;12;2_Reis_0661_02.png
+2 Reis;25;13;19;2_Reis_0662_01.png
+2 Reis;25;20;25;2_Reis_0662_02.png
+2 Reis;25;26;27;2_Reis_0663_01.png
+2 Reis;25;28;30;2_Reis_0663_02.png
