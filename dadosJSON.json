@@ -1,0 +1,17 @@
+{
+  "parametros": {
+    "whatsapp": "5537999158437"
+  },
+  "louvores": {
+	  "ativo": false,
+	  "1": {
+		  "nome": "L1",
+	      "link": "link"
+	   }
+  },
+  "atualizar": {
+	  "status": true,
+	  "version": "1.0.3",
+	  "link": "https://play.google.com/store/apps/details?id=com.minha.biblia"
+  }
+}
