@@ -4,31 +4,71 @@
   },
   "louvores": {
 	  "ativo": false,
-	  "1": {
-		  "nome": "Eu Sou Teu Pai",
-		  "cantor": "Contor desconhecido",
-	      "link": "link"
-	   }
-	  "2": {
-		  "nome": "Jesus Sempre Tem Mais",
-		  "cantor": "Contor desconhecido",
-	      "link": "link"
-	   }
-	  "3": {
-		  "nome": "És o Amor",
-		  "cantor": "Contor desconhecido",
-	      "link": "link"
-	   }
-	  "4": {
-		  "nome": "Cuido dos Detalhes",
-		  "cantor": "Contor desconhecido",
-	      "link": "link"
-	   }
-	  "5": {
-		  "nome": "Pode Morar Aqui",
-		  "cantor": "Contor desconhecido",
-	      "link": "link"
-	   }
+	  "titulos":  [{
+					  "nome": "Eu Sou Teu Pai",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Jesus Sempre Tem Mais",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "És o Amor",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Cuido dos Detalhes",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Pode Morar Aqui",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Jesus Sempre Tem Mais",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "És o Amor",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Cuido dos Detalhes",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Pode Morar Aqui",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Jesus Sempre Tem Mais",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "És o Amor",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Cuido dos Detalhes",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   },
+				   {
+					  "nome": "Pode Morar Aqui",
+					  "cantor": "Contor desconhecido",
+					  "link": "link"
+				   }]
   },
   "atualizar": {
 	  "status": true,
