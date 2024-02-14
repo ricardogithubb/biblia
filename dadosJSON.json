@@ -5,9 +5,9 @@
   "louvores": {
 	  "ativo": false,
 	  "titulos":  [{
-					  "nome": "Eu Sou Teu Pai",
-					  "cantor": "Contor desconhecido",
-					  "link": "link"
+					  "nome": "Uma nova História",
+					  "cantor": "Fernandinho",
+					  "link": "louvores/Uma_Nova_Historia_Fernandinho.mp4"
 				   },
 				   {
 					  "nome": "Jesus Sempre Tem Mais",
