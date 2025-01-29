@@ -3,7 +3,7 @@
     "whatsapp": "5537999158437"
   },
   "louvores": {
-	  "ativo": false,
+	  "ativo": true,
 	  "titulos":  [{
 					  "nome": "Uma nova História",
 					  "cantor": "Fernandinho",
